@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkrsah&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkrsah" /> </p>
 
-- 🔭 I’m currently working on [Cropsay Agro-tech](cropsay.com)
+- 🔭 I’m currently working on [Cropsay Agro-tech]([cropsay.com](https://github.com/Gauravkrsah/Cropsay))
 
 - 🌱 I’m currently learning **Agentic AI**
 
